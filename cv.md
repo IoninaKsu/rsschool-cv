@@ -1,6 +1,6 @@
-# **Ionina Ksenia**
+# Ionina Ksenia
 
-# My Contact Info
+# My Contact Information
 
 - Location: Russia, St.Peterburg
 - E-mail: ionina2002@yandex.ru
@@ -37,7 +37,7 @@ function f(X,Y,Z){
 - University: St. Petersburg State Electrotechnical University "LETI" V. I. Ulyanova, specialty applied mathematics and computer science
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 
-#Languages
+# Languages
 
 - Russian - native speaker
 - English - B1 (B2 in process)
