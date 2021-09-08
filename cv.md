@@ -31,3 +31,8 @@ function f(X,Y,Z){
     return X * (Y + 1) * (Z + 1) + Y * (X + 1) * (Z + 1) + Z * (X + 1) * (Y + 1);
             }
 ```
+
+# Education
+
+- University: St. Petersburg State Electrotechnical University "LETI" V. I. Ulyanova, specialty applied mathematics and computer science
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
