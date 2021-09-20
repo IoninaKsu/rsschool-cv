@@ -1,1 +1,1 @@
-http://youthful-heisenberg-167b3f.netlify.app/
+https://ioninaksu.github.io/rsschool-cv/
